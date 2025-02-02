@@ -2,7 +2,7 @@
 
 ## Resumo
 - Algumas criptografias e testes de validação para entendimento das mesmas, com simulaçõa de ataques e uso de Token JWT.
-- 
+  
 #### Criptografias
 - Assinatura via Public e Private Keys
 - Cifra
